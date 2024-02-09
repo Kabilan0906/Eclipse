@@ -1,4 +1,4 @@
-package org.test;
+package org.data;
 
 public abstract class C2 {
 	C2(){

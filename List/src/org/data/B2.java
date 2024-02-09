@@ -1,4 +1,4 @@
-package org.test;
+package org.data;
 
 public class B2 {
 	public B2() {

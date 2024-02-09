@@ -1,4 +1,4 @@
-package org.test;
+package org.data;
 
 public class C1 extends C2 implements C3 {
 	public C1() {

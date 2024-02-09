@@ -1,4 +1,4 @@
-package org.test;
+package org.data;
 
 public class A5 extends B5 {
 	public A5() {
